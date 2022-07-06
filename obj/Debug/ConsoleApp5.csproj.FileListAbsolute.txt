@@ -1,0 +1,8 @@
+D:\assign\web programming\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+D:\assign\web programming\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+D:\assign\web programming\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+D:\assign\web programming\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.AssemblyReference.cache
+D:\assign\web programming\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.SuggestedBindingRedirects.cache
+D:\assign\web programming\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+D:\assign\web programming\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+D:\assign\web programming\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
